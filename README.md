@@ -6,4 +6,4 @@
 - test 2
   - test 3
 
-_work in pregress_
+_work in progress_
